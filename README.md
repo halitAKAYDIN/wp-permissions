@@ -1,1 +1,1 @@
-# This script configures WordPress file permissions based on recommendations
+### This script configures WordPress file permissions based on recommendations
